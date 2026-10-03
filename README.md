@@ -357,19 +357,19 @@ It changes the way the problem is experienced."
 <div align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=wilcito&show_icons=true&hide_border=true&bg_color=050505&title_color=D6B56A&icon_color=D6B56A&text_color=FFFFFF&ring_color=D6B56A"
+  src="https://github-readme-stats.vercel.app/api?username=wilcito7&show_icons=true&hide_border=true&bg_color=050505&title_color=D6B56A&icon_color=D6B56A&text_color=FFFFFF&ring_color=D6B56A"
   height="180"
 />
 
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilcito&layout=compact&hide_border=true&bg_color=050505&title_color=D6B56A&text_color=FFFFFF"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilcito7&layout=compact&hide_border=true&bg_color=050505&title_color=D6B56A&text_color=FFFFFF"
   height="180"
 />
 
 <br><br>
 
 <img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=wilcito&hide_border=true&background=050505&ring=D6B56A&fire=D6B56A&currStreakLabel=D6B56A&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=777777"
+  src="https://github-readme-streak-stats.herokuapp.com/?user=wilcito7&hide_border=true&background=050505&ring=D6B56A&fire=D6B56A&currStreakLabel=D6B56A&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=777777"
   width="65%"
 />
 
