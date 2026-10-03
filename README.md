@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi! I'm Wilfreg 👋
 
-<!--
-**Wilcito7/Wilcito7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Industrial Civil Engineering Student | Problem Solver & Process Optimizer**
 
-Here are some ideas to get you started:
+Welcome to my GitHub space. This is where I showcase my projects, code experiments, and the tools I build.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 A little about me
+
+- ⚙️ I'm currently studying Industrial Civil Engineering at Universidad San Sebastián.
+- 🐍 I write code in **Python** and build interactive applications using **Streamlit**.
+- 🛠️ I enjoy bridging the gap between software and the physical world through prototyping, laser cutting, and API integrations.
+- 🧠 I appreciate dark humor, straightforward communication, and logic-based arguments.
+- ☕ When I'm not wrestling with the terminal or designing something new, you can find me at the gym, surviving in *Project Zomboid*, managing my farm in *Stardew Valley*, or hunting for a good coffee.
+
+### 🛠️ Tools & Technologies
+
+- **Languages:** Python, Markdown
+- **Tools:** Git, GitHub, Terminal
+- **Development:** Streamlit, API integration (OpenWeather, NASA)
+- **Other:** Vector design & digital fabrication
+
+### 📫 Let's connect
+
+- [Connect with me on LinkedIn](https://www.linkedin.com/in/wilfreg-martinez-384601294/)
